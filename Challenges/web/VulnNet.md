@@ -1,10 +1,10 @@
 # VulnNet
 
 Category: Web <br>
-Difficulty: Medium
-Platform: TryHackMe
-Status: Rooted/Finished
-Tags: Linux, cron-privesc, php, priv-esc, web
+Difficulty: Medium<br>
+Platform: TryHackMe<br>
+Status: Rooted/Finished<br>
+Tags: Linux, cron-privesc, php, priv-esc, web<br>
 
 ---
 
