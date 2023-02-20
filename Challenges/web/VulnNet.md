@@ -1,26 +1,10 @@
 # VulnNet
 
-Category: Web
+Category: Web <br>
 Difficulty: Medium
 Platform: TryHackMe
 Status: Rooted/Finished
 Tags: Linux, cron-privesc, php, priv-esc, web
-
-***TABLE OF CONTENTS:***
-
-**[Intro](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[recon & enum](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[Explotation](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[Privilege Escalation](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[Flags](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[Imporved skill](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
-
-**[Used tools](https://www.notion.so/VulnNet-680bc1f85ea44f2885993afb73ecddae)**
 
 ---
 
