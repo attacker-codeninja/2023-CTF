@@ -1,13 +1,23 @@
-# CTF Challenges
+<div align="center">
 
-Welcome to the CTF Challenges repository! This repository contains a variety of challenges from different categories such as web, binary exploitation, reverse engineering, cryptography, and more. The repository also includes write-ups and solutions for each challenge.
+<img src="https://user-images.githubusercontent.com/98729397/221095623-82bc4982-c738-402c-a2f7-4cdda96e4621.png" width="140">
+<p>Yo, welcome to the CTF Challenges repo! We've got a bunch of sick challenges for you to flex your skills in web, binary, reversing, crypto, and more. And if you get stuck, we've got write-ups and solutions to help you pwn your way to victory. Happy hacking!</p>
+
+<div>
+  <a href="https://github.com/mrnazu/2023-CTF" target="_blank"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/mrnazu/2023-CTF?label=github%20stars&style=flat-square"></a>
+  <a href="https://github.com/mrnazu/2023-CTF" target="_blank"><img alt="GitHub forks" src="https://img.shields.io/github/forks/mrnazu/2023-CTF?style=flat-square"></a>
+</div>
+
+</div>
 
 ## Getting Started
 
-To get started with the challenges, simply clone this repository and navigate to the `challenges` directory. Here you will find all of the challenges organized by category. Each challenge has its own directory containing a README file with instructions on how to solve it. 
+To get your hack on with our challenges, just clone this repo and navigate to the challenges directory like a pro. Everything is organized by category, so you can easily find what you're looking for. Each challenge has its own directory, complete with a README file to show you how to own it.
 
-## Contributing 
+## Contributions ✨
 
-We welcome contributions from anyone who is interested in helping us improve our CTF Challenges! If you have an idea for a new challenge or would like to submit a solution or write-up for an existing challenge, please open an issue or pull request on this repository. 
+Listen up, hackers! We're all about collaborating to make our CTF Challenges even more leet. Got a sick idea for a challenge or want to submit your solution or write-up? Don't be shy, just open an issue or pull request on this repo and let's make it happen together.
 
-## [Twitter](https://twitter.com/SamuelAmsaluE)
+## **Links**
+
+- [Twitter](https://twitter.com/SamuelAmsaluE)
