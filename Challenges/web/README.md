@@ -14,3 +14,4 @@ We hope you enjoy solving these challenges and wish you the best of luck!
 - [SQL Injection Part 1](https://github.com/mrnazu/2023-CTF/blob/main/Challenges/web/sql/SQL%20Injection%20Part%201.md)
 - [SQL Injection Part 2](https://github.com/mrnazu/2023-CTF/blob/main/Challenges/web/sql/SQL-2/SQL%20Injection%20Part%202.md)
 - [Cold VVars](https://github.com/mrnazu/2023-CTF/blob/main/Challenges/web/Cold%20VVars.md)
+- [Broken Authentication Part 1](https://github.com/mrnazu/2023-CTF/blob/main/Challenges/web/Broken%20Authentication%20Part%201.md)
