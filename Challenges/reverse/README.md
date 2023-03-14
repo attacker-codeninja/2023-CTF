@@ -9,3 +9,5 @@ In this directory you will find a wide range of challenges from beginner to adva
 We hope you enjoy solving these challenges and wish you the best of luck!
 
 # Tasks
+There are total 7 tasks to crack passwords, The flags doesn't matter, what matters is passwords :)
+BEST OF LUCK :)
